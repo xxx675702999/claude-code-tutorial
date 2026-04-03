@@ -61,8 +61,8 @@ https://github.com/new
 # 进入项目目录
 cd C:\Users\Ken\Private\Code\claude-code-tutorial
 
-# 添加远程仓库（替换 YOUR_USERNAME）
-git remote add origin https://github.com/YOUR_USERNAME/claude-code-tutorial.git
+# 添加远程仓库（替换 xxx675702999）
+git remote add origin https://github.com/xxx675702999/claude-code-tutorial.git
 
 # 推送代码
 git branch -M main
@@ -84,7 +84,7 @@ git push -u origin main
 ### 5. 访问你的网站
 
 ```
-https://YOUR_USERNAME.github.io/claude-code-tutorial/
+https://xxx675702999.github.io/claude-code-tutorial/
 ```
 
 ## 📝 提交历史

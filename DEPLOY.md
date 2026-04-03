@@ -26,8 +26,8 @@
 # 进入项目目录
 cd C:\Users\Ken\Private\Code\claude-code-tutorial
 
-# 添加远程仓库（替换 YOUR_USERNAME）
-git remote add origin https://github.com/YOUR_USERNAME/claude-code-tutorial.git
+# 添加远程仓库（替换 xxx675702999）
+git remote add origin https://github.com/xxx675702999/claude-code-tutorial.git
 
 # 推送代码
 git push -u origin main
@@ -50,7 +50,7 @@ git push -u origin main
 
 部署成功后，访问：
 ```
-https://YOUR_USERNAME.github.io/claude-code-tutorial/
+https://xxx675702999.github.io/claude-code-tutorial/
 ```
 
 ## 🎨 自定义配置
@@ -67,7 +67,7 @@ https://YOUR_USERNAME.github.io/claude-code-tutorial/
 2. **`docs/.vitepress/config.ts`**
    ```typescript
    // 修改这部分
-   link: 'https://github.com/YOUR_USERNAME/claude-code-tutorial'
+   link: 'https://github.com/xxx675702999/claude-code-tutorial'
    ```
 
 3. **`README.md`**
@@ -148,7 +148,7 @@ your-custom-domain.com
 ```typescript
 comment: {
   provider: 'giscus',
-  repo: 'YOUR_USERNAME/claude-code-tutorial',
+  repo: 'xxx675702999/claude-code-tutorial',
   // ... 其他配置
 }
 ```

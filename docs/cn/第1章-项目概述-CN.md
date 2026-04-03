@@ -498,7 +498,7 @@ graph TD
 
 ## 🚀 下一步
 
-**下一章**：[第2章：环境搭建与快速开始](../第2章-环境搭建-CN.md)
+**下一章**：[第2章：环境搭建与快速开始](/claude-code-tutorial/cn/第2章-环境搭建-CN.md)
 
 **学习路径**：
 
@@ -517,9 +517,9 @@ graph TD
 ## 📚 扩展阅读
 
 ### 相关章节
-- **后续章节**：[第2章：环境搭建](../第2章-环境搭建-CN.md)
-- **核心章节**：[第5章：QueryEngine 详解](../第5章-QueryEngine详解-CN.md)
-- **专题章节**：[第13章：性能优化](../第13章-性能优化-CN.md)
+- **后续章节**：[第2章：环境搭建](/claude-code-tutorial/cn/第2章-环境搭建-CN.md)
+- **核心章节**：[第5章：QueryEngine 详解](/claude-code-tutorial/cn/第5章-QueryEngine详解-CN.md)
+- **专题章节**：[第13章：性能优化](/claude-code-tutorial/cn/第13章-性能优化-CN.md)
 
 ### 外部资源
 - [Claude Code 官网](https://claude.ai/claude-code)
