@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Claude Code 源码教学指南',
   description: '从零到一掌握 Claude Code 插件开发',
+  base: '/claude-code-tutorial/',
 
   locales: {
     root: {
