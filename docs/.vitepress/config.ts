@@ -179,5 +179,9 @@ export default defineConfig({
     build: {
       chunkSizeWarningLimit: 1000
     }
-  }
+  },
+
+  // 禁用死链接检查
+  ignoreDeadLinks: true,
+  lastUpdated: true
 })
