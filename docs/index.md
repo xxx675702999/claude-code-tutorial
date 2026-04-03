@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /cn/第01章-快速开始
+      link: /cn/第1章-项目概述-CN
     - theme: alt
       text: English Version
-      link: /en/chapter01-quick-start
+      link: /en/chapter1-introduction-EN
 
 features:
   - title: 📚 完整教程

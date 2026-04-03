@@ -2,7 +2,7 @@
 
 > 从零到一掌握 Claude Code 插件开发
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/your-username/claude-code-tutorial/deploy.yml?branch=main)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/xxx675702999/claude-code-tutorial/deploy.yml?branch=main)
 ![VitePress](https://img.shields.io/badge/VitePress-1.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -23,13 +23,13 @@
 
 ### 在线阅读
 
-访问 [GitHub Pages](https://your-username.github.io/claude-code-tutorial/) 阅读完整教程。
+访问 [GitHub Pages](https://xxx675702999.github.io/claude-code-tutorial/) 阅读完整教程。
 
 ### 本地运行
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/claude-code-tutorial.git
+git clone https://github.com/xxx675702999/claude-code-tutorial.git
 cd claude-code-tutorial
 
 # 安装依赖
@@ -92,8 +92,8 @@ npm run docs:dev
 
 ## 📮 联系我们
 
-- GitHub Issues: [报告问题](https://github.com/your-username/claude-code-tutorial/issues)
-- Discussions: [讨论交流](https://github.com/your-username/claude-code-tutorial/discussions)
+- GitHub Issues: [报告问题](https://github.com/xxx675702999/claude-code-tutorial/issues)
+- Discussions: [讨论交流](https://github.com/xxx675702999/claude-code-tutorial/discussions)
 
 ---
 
