@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
-export default defineConfig({
+export default withMermaid(defineConfig({
   title: 'Claude Code 源码教学指南',
   description: '从零到一掌握 Claude Code 插件开发',
   base: '/claude-code-tutorial/',
@@ -228,4 +229,4 @@ export default defineConfig({
       chunkSizeWarningLimit: 1000
     }
   }
-})
+}))
